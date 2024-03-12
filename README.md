@@ -14,6 +14,7 @@ Impact: There are 90% true cases being predicted under the model.
 
 Process:
 The model follows 5 steps:-
+
  a) Database Acquisition:
     After the data was extracted from Kaggle in a CSV format, it was uploaded to Jupyter Notebook using the Pandas library. 
 
