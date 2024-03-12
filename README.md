@@ -2,6 +2,8 @@ Project Description:-
 
 Database Name: Advertising.csv
 
+Nutshell: The project consists of the nutshell of the model, which has been constructed using Visio.
+
 Database Source: https://www.kaggle.com/code/mafrojaakter/customer-ad-click-prediction
  
 Database Description: The database consists of details about the number of people who clicked on ads or not, which has been signified in the form of binary classified language 0 and 1. (0 = Not click & 1= Click)
