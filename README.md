@@ -57,8 +57,10 @@ The model follows 5 steps:-
   e) Model Deployment:
 
        -The model has been deployed on the testing dataset with the capability of predicting the outcome with an accuracy of 90%. 
+
+       -Using Sigmoid Activation function, the model's accuracy has been increased to 97.74%.
       
-       -The prediction on the regression plot shows that the chances for the user to click on ads are higher. 
+       -The prediction on the Model shows that the chances for the user to click on ads are higher. 
 
         
     
